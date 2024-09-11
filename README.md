@@ -21,7 +21,7 @@ go install github.com/tomnomnom/assetfinder@latest
 1. Clone the repository or download the script
    
 ```bash
-git clone https://github.com/dkhan25/subdomain-finder.git
+git clone https://github.com/CloudyKhan/subdomain-finder.git
 ```
 2. Navigate to the folder with the script
 
